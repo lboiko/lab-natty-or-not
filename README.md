@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Desafio Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Descubra o Universo de 'One Piece' 🚢
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Explore o Universo de 'One Piece' em um vídeo criado com IA generativa, que mergulha nas emocionantes aventuras de Monkey D. Luffy e sua tripulação dos Chapéu de Palha. Descubra os poderes únicos de Luffy, os desafios enfrentados contra inimigos formidáveis e a exploração de ilhas exóticas enquanto perseguem o lendário tesouro, One Piece. Conheça de perto personagens como Roronoa Zoro, Nami, Usopp, Sanji e Tony Tony Chopper, cada um trazendo suas habilidades únicas e contribuindo para a história vibrante deste universo pirata.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- [ChatGPT](https://chatgpt.com/)
+- [Studio D-ID](https://studio.d-id.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizei o ChatGPT para criação do roteiro e do título:
+
+| Ação  | prompt|
+| ------------- | ------------- |
+| Título  | crie 10 títulos para o resumo de one piece abaixo  |
+| Conteúdo  | crie em no máximo 10 linhas um resumo do que é o anime one piece e seus principais personagens  |
+
+
+Depois utilizei a tecnologia do studio D-ID para a criação do avatar, da voz e do vídeo completo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É possível acessar o video por [aqui](https://studio.d-id.com/share?id=00c51dd68702ca8aaf483aa83121c8b9&utm_source=copy) 🎞
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão 
+A utilização de IA generativa no meu projeto de vídeo proporcionou uma abordagem criativa e eficiente, permitindo explorar novas formas de expressão visual e adaptar dinamicamente o conteúdo.
